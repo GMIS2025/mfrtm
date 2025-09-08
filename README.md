@@ -2,6 +2,7 @@
 
 GMIS-mfrtm is a graphical user interface (GUI) designed for numerical simulations of reactive solute transport in groundwater, developed to support research in groundwater hydrology, hydrochemistry, and environmental geochemistry. This platform integrates a comprehensive simulation workflow with a focus on interactivity, modularity, and advanced visualization, enabling users to easily build and analyze complex groundwater models.
 
+
 **Features**
 
 **Interactive Workflow:** GMIS-mfrtm allows users to seamlessly go from model setup to simulation output through a four-stage workflow: parameter configuration → input generation → parallel computation → 3D post-processing.
@@ -18,12 +19,14 @@ GMIS-mfrtm is a graphical user interface (GUI) designed for numerical simulation
 
 **Cross-Platform Support:** GMIS-mfrtm is compatible with Windows, macOS, and Linux, ensuring flexibility across various environments.
 
+
 **Installation**
 
 Clone this repository:
 
 git clone https://github.com/your-username/gmis-mfrtm.git
 cd gmis-mfrtm
+
 
 **Usage**
 
@@ -32,6 +35,7 @@ cd gmis-mfrtm
 **Run Simulation:** Generate the necessary input files and launch simulations .
 
 **Visualize Results:**View the output in 3D, with real-time concentration and flow field visualization.
+
 
 **Documentation**
 
@@ -44,6 +48,7 @@ Step-by-step usage guide
 Example configurations
 
 Advanced simulation techniques
+
 
 **Contributing**
 
